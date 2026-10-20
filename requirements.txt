@@ -1,0 +1,4 @@
+numpy>=2.5.0
+rosbags>=0.9.20
+matplotlib>=3.10.0
+control>=0.10.0
