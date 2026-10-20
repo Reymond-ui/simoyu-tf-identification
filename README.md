@@ -29,7 +29,7 @@ GUI-инструмент для идентификации передаточн�
 
 ## Установка
 
-
-git clone https://github.com/Reymond-ui/simoyu-tf-identification.git
-cd simoyu-tf-identification
-pip install -r requirements.txt
+    
+    git clone https://github.com/Reymond-ui/simoyu-tf-identification.git
+    cd simoyu-tf-identification
+    pip install -r requirements.txt
